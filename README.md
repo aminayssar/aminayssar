@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍🎓 I’m currently studying Computer Engineering at King Salman International University
-- 🌱 I’m currently interested in Network Security, Penetration Testing and Blockchain
+- 🌱 I’m currently interested in Data Science, Network Security, Penetration Testing and Artificial Intelligence
 - 📫 How to reach me: aminayssar@outlook.com
 
 <!--
