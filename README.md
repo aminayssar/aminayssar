@@ -24,10 +24,11 @@
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-3399FF.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
-
 ### 📈 Data Visualization
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3F7CAC.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ### 🛠️ Other Technical Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
