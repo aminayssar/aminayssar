@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Studying Computer Engineering
 - 🌱 Focused on Data Science, Data Analysis, Machine Learning, and Cryptography
-- 📖 Exploring Deep Learning, Blockchain technologies, and Cryptocurrency systems
+- 📖 Exploring Robotics, Deep Learning, and Blockchain
 - 📫 How to reach me: aminayssar@outlook.com
 
 ## 🧠 Skills & Tools
