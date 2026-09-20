@@ -41,6 +41,7 @@
 - Data Science & Analytics
 - Applied Machine Learning
 - Data Engineering Fundamentals
+- Robotics
 
 <!--
 **aminayssar/aminayssar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
